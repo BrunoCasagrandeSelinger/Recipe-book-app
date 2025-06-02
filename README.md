@@ -18,7 +18,7 @@
 
 ## 📸 Screenshot
 
-![Recipe Gallery Screenshot](images/Mainpage.png)
+![Recipe Gallery Screenshot](/Images/Mainpage.png)
 
 ## 📄 License
 
